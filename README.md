@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Abhinav-IIRS
-- 👀 I’m interested in Meteorology, Air Pollution modeling.
-- 🌱 I’m currently learning Python, NWP modeling and Data  Assimilation.
+- 👋 Hi, I’m @Abhinav
+- 👀 I’m interested in Meteorology, Air Pollution modeling
+- 🌱 I’m currently learning Python, NWP modeling and Data  Assimilation
 - 📫 To reach me drop an email on abhinaviirs@gmail.com :)
 
 <!---
