@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Abhinav
 - 👀 I’m interested in Meteorology, Air Pollution modeling
-- 🌱 I’m currently learning Python, NWP modeling and Data  Assimilation
-- 📫 To reach me drop an email on abhinaviirs@gmail.com :)
+- 🌱 I’m currently learning Python, Numerical Weather modeling and Data  Assimilation
+- 📫 To reach me drop an email on abhinaviirs@gmail.com :-)
 
 <!---
 Abhinav-IIRS/Abhinav-IIRS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
